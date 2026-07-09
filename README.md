@@ -6,6 +6,8 @@
 > [!IMPORTANT]
 > 仅在整合包 [GT:NH](https://github.com/GTNewHorizons/GT-New-Horizons-Modpack) 中测试过
 
+如果音频识别结果混乱/效果不理想/依托（极大可能），建议动用能工智人直接生成Lua的table。
+
 ## 需求mod
  - [OpenComputers](https://github.com/MightyPirates/OpenComputers)
 
